@@ -29,4 +29,4 @@ Sending and scheduling notifications - **workerManager + NotificationManager.**
 
 # Little DEMO
 
-<iframe width="560" height="315" src="https://andtree.ru/vdsina_demo.mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[DEMO](https://andtree.ru/vdsina_demo.mp4)
